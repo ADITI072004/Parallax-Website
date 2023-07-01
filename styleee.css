@@ -1,0 +1,85 @@
+html,
+body{
+    height: 100%;
+    margin: 0;
+    font-size: 16px;
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    line-height: 1.8em;
+    color: #666;
+}
+.one{
+    background-image: url(2713519101.jpg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.two{
+    background-image: url(desktop-wallpaper-computer-tech-information-technology.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.three{
+    background-image: url(nucb4z97b3q78mjk.jpg);
+    min-height: 400px;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.four{
+    background-image: url(download.jpeg);
+    min-height: 100%;
+    position: relative;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+
+.text1{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 27px;
+    color: rgb(20, 22, 84);
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+.first button{
+    background-color: #1d2178;
+    color: white;
+    padding: 25px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.first a{
+    color: #ffffff;
+    text-decoration: none;
+    /* transition: all 0.5s; */
+}
+
+.baq{
+    padding: 50px 80px;
+    text-align: center;
+}
+.adi1{
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+}
+.adi2{
+    background-color: #000000;
+    color: white;
+}
